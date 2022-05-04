@@ -1,1 +1,300 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T06:24:43.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.5.0" etag="fGzozcXV3QsQlGyL-1yo" type="github"><diagram id="I3lzoCXKx5in6-fqYpsn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-04T08:44:36.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="WsdR99XarhAcwiIJHF-t" version="17.5.0" type="github" pages="2">
+  <diagram id="I3lzoCXKx5in6-fqYpsn" name="Business Architecture">
+    <mxGraphModel dx="2889" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="161" width="320" height="499" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-22" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;fontColor=#4C0099;fillColor=#E6D0DE;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="160" width="1520" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-23" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;fontColor=#FFFFCC;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="450" width="1520" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="IhZ-F99rQEXR0p4jWtA1-1" value="&lt;span style=&quot;font-size: 14px&quot;&gt;OPERATION&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Inter;verticalAlign=top;align=center;spacingLeft=6;fontStyle=1;fontSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="1">
+          <mxGeometry y="186" width="530" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IhZ-F99rQEXR0p4jWtA1-2" value="Underwriting" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="1">
+          <mxGeometry x="20" y="276" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IhZ-F99rQEXR0p4jWtA1-3" value="New Business" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="226" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IhZ-F99rQEXR0p4jWtA1-5" value="Customer Service" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="1">
+          <mxGeometry x="190" y="226" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IhZ-F99rQEXR0p4jWtA1-6" value="&lt;span style=&quot;font-size: 14px&quot;&gt;SALE &amp;amp; DISTRIBUTION&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Inter;verticalAlign=top;align=center;spacingLeft=6;fontStyle=1;fontSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="186" width="430" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IhZ-F99rQEXR0p4jWtA1-7" value="Partnership Distribution" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="226" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IhZ-F99rQEXR0p4jWtA1-8" value="Agency Distribution" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="276" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IhZ-F99rQEXR0p4jWtA1-9" value="Distribution Strategies &amp;amp; Support" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="226" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IhZ-F99rQEXR0p4jWtA1-11" value="Pru Academy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="276" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IhZ-F99rQEXR0p4jWtA1-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;endWidth=19.310344827586206;endSize=8.262068965517242;width=24.137931034482758;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-271" y="271" as="sourcePoint" />
+            <mxPoint x="-341" y="271.31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IhZ-F99rQEXR0p4jWtA1-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;endWidth=19.310344827586206;endSize=8.262068965517242;width=24.137931034482758;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="261" as="sourcePoint" />
+            <mxPoint x="-80" y="261.30999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IhZ-F99rQEXR0p4jWtA1-15" value="Policy Servicing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="1">
+          <mxGeometry x="190" y="276" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IhZ-F99rQEXR0p4jWtA1-17" value="Claim" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="1">
+          <mxGeometry x="360" y="226" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IhZ-F99rQEXR0p4jWtA1-30" value="RISK &amp;amp; COMPLIANCE" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Inter;verticalAlign=top;align=center;spacingLeft=6;fontStyle=1;fontSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="1">
+          <mxGeometry x="10" y="479.59" width="350" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IhZ-F99rQEXR0p4jWtA1-31" value="Legal" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="519.5899999999999" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IhZ-F99rQEXR0p4jWtA1-32" value="Risk &amp;amp; Compliance" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="569.5899999999999" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IhZ-F99rQEXR0p4jWtA1-34" value="IT Security &amp;amp; Governance" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="519.5899999999999" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IhZ-F99rQEXR0p4jWtA1-35" value="Data Governance" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="569.5899999999999" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-2" value="FINANCE" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Inter;verticalAlign=top;align=center;spacingLeft=6;fontStyle=1;fontSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="1">
+          <mxGeometry x="380" y="479.59" width="510" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-3" value="Financial Reporting" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="519.5899999999999" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-4" value="Actuarial Reporting" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="569.5899999999999" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-5" value="Accounting" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="519.5899999999999" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-7" value="Actuary: Product &amp;amp; Pricing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="569.5899999999999" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-9" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;fontColor=#4C0099;width=26;endSize=7.055172413793104;fillColor=#fff2cc;strokeColor=#d6b656;startSize=7.055172413793104;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="180" y="445" as="sourcePoint" />
+            <mxPoint x="180" y="363" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-11" value="HUMAN RESOURCE" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Inter;verticalAlign=top;align=center;spacingLeft=6;fontStyle=1;fontSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="479.59000000000003" width="510" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-12" value="Recuirment" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="519.59" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-13" value="Communication &amp;amp; Engagement" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="569.59" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-14" value="Compensation &amp;amp; Benefits" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="519.59" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-15" value="Business Strategy &amp;amp; People Partner" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="569.59" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-16" value="Business &amp;amp; Operation Functions" style="text;html=1;strokeColor=none;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;fontStyle=1;rotation=-90;fontColor=#4C0099;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="-674.52" y="236.73" width="196.55" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-17" value="Business Support Functions" style="text;html=1;strokeColor=none;fillColor=#FFFFCC;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;fontStyle=1;rotation=-90;fontColor=#999900;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="-678.53" y="531.26" width="206.54" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-18" value="Learning &amp;amp; Development" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="519.59" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-19" value="Property" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="519.5899999999999" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-20" value="Procurement" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="569.5899999999999" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-21" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;CUSTOMER&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;verticalAlign=middle;align=center;spacingLeft=6;fontStyle=1;fontSize=20;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="40" width="1520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-24" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;fontColor=#4C0099;width=26;endSize=7.055172413793104;fillColor=#fff2cc;strokeColor=#d6b656;startSize=7.055172413793104;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-270" y="446" as="sourcePoint" />
+            <mxPoint x="-270" y="364" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-25" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;fontColor=#4C0099;width=26;endSize=7.055172413793104;fillColor=#fff2cc;strokeColor=#d6b656;startSize=7.055172413793104;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="640" y="446" as="sourcePoint" />
+            <mxPoint x="640" y="364" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-26" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;fontColor=#4C0099;width=26;endSize=7.055172413793104;fillColor=#fff2cc;strokeColor=#d6b656;startSize=7.055172413793104;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-320" y="155" as="sourcePoint" />
+            <mxPoint x="-320" y="85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-27" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;fontColor=#4C0099;width=26;endSize=7.055172413793104;fillColor=#fff2cc;strokeColor=#d6b656;startSize=7.055172413793104;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="280" y="155" as="sourcePoint" />
+            <mxPoint x="280" y="85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-28" value="&lt;span style=&quot;font-size: 14px&quot;&gt;TRANSFORMATION &amp;amp; EFFICIENCY&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Inter;verticalAlign=top;align=center;spacingLeft=6;fontStyle=1;fontSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="229.59" width="260" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-29" value="Cloud Infrastructure" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="569.1800000000001" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-30" value="End User Support" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="519.59" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-31" value="Application Delivery - Systems &amp;amp; Services" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="269.59" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-33" value="Technology Solution &amp;amp; Data Engineering" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="319.59" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-34" value="Ecosystem Integration" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="469.59" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-35" value="Business Intelligence Unit" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="419.59" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-36" value="Delivery - Digital Products and Assets" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="369.59" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-37" value="Customer Aquisition" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="1">
+          <mxGeometry x="560" y="196.73000000000002" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-39" value="Technology &amp;amp; Solution" style="text;html=1;strokeColor=none;fillColor=#BCEBFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;fontStyle=1;rotation=0;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="1001" y="162" width="319" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;endWidth=19.310344827586206;endSize=8.262068965517242;width=24.137931034482758;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="994" y="265" as="sourcePoint" />
+            <mxPoint x="924" y="265.30999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joVhFSl8MI9ZFcXh8bBL-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;endWidth=19.310344827586206;endSize=8.262068965517242;width=24.137931034482758;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="994" y="560" as="sourcePoint" />
+            <mxPoint x="924" y="560.31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Enterprise Architecture" id="T2dRqerPH2WT0VfCYdFs">
+    <mxGraphModel dx="2889" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-0" />
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-1" parent="KKGqycOkMeRsJXnEsVrt-0" />
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-2" value="&lt;span style=&quot;font-size: 14px&quot;&gt;OPERATION&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Inter;verticalAlign=top;align=center;spacingLeft=6;fontStyle=1;fontSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry y="60" width="530" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-3" value="Underwriting" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="20" y="150" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-4" value="New Business" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="20" y="100" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-5" value="Customer Service" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="190" y="100" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-6" value="&lt;span style=&quot;font-size: 14px&quot;&gt;SALE &amp;amp; DISTRIBUTION&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Inter;verticalAlign=top;align=center;spacingLeft=6;fontStyle=1;fontSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="-520" y="60" width="430" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-7" value="Partnership Distribution" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="-500" y="100" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-8" value="Agency Distribution" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="-500" y="150" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-9" value="Distribution Strategies &amp;amp; Support" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="-260" y="100" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-10" value="PruONE (ePoS)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006600;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="-520" y="340" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-11" value="Pru Academy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="-260" y="150" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;endWidth=19.310344827586206;endSize=8.262068965517242;width=24.137931034482758;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-271" y="145" as="sourcePoint" />
+            <mxPoint x="-341" y="145.31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-13" value="e-Recruitment" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="-280" y="340" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;endWidth=19.310344827586206;endSize=8.262068965517242;width=24.137931034482758;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="146" as="sourcePoint" />
+            <mxPoint x="-80" y="146.30999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-15" value="Policy Servicing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="190" y="150" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-16" value="Claim" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="360" y="100" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-17" value="Automation Service (SMS/Email)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006600;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="-520" y="390" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-18" value="Policy Admin System" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006600;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry y="340" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-19" value="Automation Service (SMS/Email)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006600;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="170" y="340" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-20" value="PruCRM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006600;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="170" y="390" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-21" value="PowerBI: Report / Dashboard / Dataset" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="-520" y="250" width="1050" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-22" value="Automation Service (STP/ePolicy-Kit)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006600;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry y="390" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-23" value="&lt;b&gt;PRU&lt;/b&gt;dna" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006600;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="-280" y="390" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-24" value="&lt;b&gt;PRU&lt;/b&gt;Expert" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006600;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="-280" y="440" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-25" value="O365 / SharePoint" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="-520" y="290" width="1050" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-26" value="RISK &amp;amp; COMPLIANCE" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Inter;verticalAlign=top;align=center;spacingLeft=6;fontStyle=1;fontSize=14;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="-520" y="550" width="670" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-27" value="Legal" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="-500" y="590" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-28" value="Risk &amp;amp; Compliance" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="-340" y="590" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-29" value="IT Security &amp;amp; Governance" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="-180" y="590" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KKGqycOkMeRsJXnEsVrt-30" value="Data Governance" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="KKGqycOkMeRsJXnEsVrt-1">
+          <mxGeometry x="-20" y="590" width="150" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
