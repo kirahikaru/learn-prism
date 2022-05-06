@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T05:22:25.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="g2rMtv59OOi1UBafXEWq" version="17.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-06T03:51:42.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="eEo3hW-M0elR1kKoGhMh" version="17.5.0" type="github" pages="3">
   <diagram id="I3lzoCXKx5in6-fqYpsn" name="Business Architecture">
-    <mxGraphModel dx="2249" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,7 +197,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Enterprise Architecture" id="T2dRqerPH2WT0VfCYdFs">
-    <mxGraphModel dx="3671" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2545" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KKGqycOkMeRsJXnEsVrt-0" />
         <mxCell id="KKGqycOkMeRsJXnEsVrt-1" parent="KKGqycOkMeRsJXnEsVrt-0" />
@@ -348,7 +348,7 @@
             <mxPoint x="625" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MnhJsnDO0eoFPCqQJyrO-31" value="Kafka Topics" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;fontStyle=1;rotation=-90;spacingLeft=5;spacingRight=5;fillColor=#FFCCCC;strokeColor=none;" parent="KKGqycOkMeRsJXnEsVrt-1" vertex="1">
+        <mxCell id="MnhJsnDO0eoFPCqQJyrO-31" value="OnePulse Kafka Topics" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;fontStyle=1;rotation=-90;spacingLeft=5;spacingRight=5;fillColor=#FFCCCC;strokeColor=none;" parent="KKGqycOkMeRsJXnEsVrt-1" vertex="1">
           <mxGeometry x="355.75" y="526.75" width="316" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="MnhJsnDO0eoFPCqQJyrO-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;endWidth=22;endSize=8.77;width=30;fillColor=#CCCCCC;strokeColor=#36393d;dashed=1;" parent="KKGqycOkMeRsJXnEsVrt-1" edge="1">
@@ -444,7 +444,7 @@
         <mxCell id="MetJd-90sVrNVzVsXYjA-31" value="O365 / SharePoint" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;shadow=1;" parent="KKGqycOkMeRsJXnEsVrt-1" vertex="1">
           <mxGeometry x="-720" y="1080" width="1414.52" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MetJd-90sVrNVzVsXYjA-32" value="PA E-Form&lt;br&gt;PowerApp+SharePoint" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#ffcccc;strokeColor=#36393d;fontColor=default;shadow=1;" parent="KKGqycOkMeRsJXnEsVrt-1" vertex="1">
+        <mxCell id="MetJd-90sVrNVzVsXYjA-32" value="PA E-Form&lt;br&gt;PowerApp+SharePoint" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006600;shadow=1;" parent="KKGqycOkMeRsJXnEsVrt-1" vertex="1">
           <mxGeometry x="-2.4799999999999898" y="1130" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MetJd-90sVrNVzVsXYjA-33" value="System &amp;amp; Applications" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=14;fontStyle=1;rotation=-90;spacingLeft=5;spacingRight=5;fillColor=#E6E6E6;strokeColor=none;" parent="KKGqycOkMeRsJXnEsVrt-1" vertex="1">
@@ -474,7 +474,7 @@
         <mxCell id="MetJd-90sVrNVzVsXYjA-46" value="&lt;span&gt;Coupa Risk Assess&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#ffcccc;strokeColor=#36393d;shadow=1;" parent="KKGqycOkMeRsJXnEsVrt-1" vertex="1">
           <mxGeometry x="524.52" y="1130" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MetJd-90sVrNVzVsXYjA-47" value="&lt;span&gt;Accumatica&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#ffcccc;strokeColor=#36393d;shadow=1;" parent="KKGqycOkMeRsJXnEsVrt-1" vertex="1">
+        <mxCell id="MetJd-90sVrNVzVsXYjA-47" value="&lt;span&gt;Acumatica&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#ffcccc;strokeColor=#36393d;shadow=1;" parent="KKGqycOkMeRsJXnEsVrt-1" vertex="1">
           <mxGeometry x="364.52" y="1230" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MetJd-90sVrNVzVsXYjA-48" value="&lt;span&gt;PCA MI/KPI Reporting&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontColor=#006600;" parent="KKGqycOkMeRsJXnEsVrt-1" vertex="1">
@@ -496,10 +496,46 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C3BL0AAN0VKol4_dss1b" name="PCLA Capabilities Mapping">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2889" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gK_ERNJTbto_oaj90uAH-1" value="Application Code &amp;amp; Security" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-692.48" y="600" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gK_ERNJTbto_oaj90uAH-2" value="Artificial Intelligence" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="600" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gK_ERNJTbto_oaj90uAH-3" value="Back-end Development" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="660" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gK_ERNJTbto_oaj90uAH-4" value="Cloud Security" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-692.48" y="660" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gK_ERNJTbto_oaj90uAH-6" value="Cloud Enablement &amp;amp; Continuous Integration" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="730" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gK_ERNJTbto_oaj90uAH-7" value="DevOps" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="620" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gK_ERNJTbto_oaj90uAH-8" value="Data Protection" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="550" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gK_ERNJTbto_oaj90uAH-9" value="Configuration Management" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="730" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gK_ERNJTbto_oaj90uAH-10" value="Digital Architecture Standards" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="810" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gK_ERNJTbto_oaj90uAH-11" value="Digital Integration &amp;amp; APIs" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="900" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gK_ERNJTbto_oaj90uAH-13" value="Infrastructure Management" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="800" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gK_ERNJTbto_oaj90uAH-14" value="Legacy Information" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="880" width="150" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
